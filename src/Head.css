@@ -7,6 +7,34 @@
     height: 400px;
     background-image: url('./images/cobweb.jpg');
     background-size: cover;
-    border: 1px solid red;
 
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    position: relative;
+    top:300px;
+    left:-10px;
+}
+
+.button1 {
+    background-color: #4CAF50; 
+    color: black; 
+    border: 2px solid white;
+}
+
+.button1:hover {
+    background-color: white;
+    color: #4CAF50;
+    border: 10px solid #4CAF50;
 }

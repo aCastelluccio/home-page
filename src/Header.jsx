@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './Head.css';
-import './scsstest.scss';
+import './NameAnimation.scss';
 
 
 class Header extends Component {
@@ -21,13 +21,16 @@ class Header extends Component {
                                         </p>
                                     <ul class="content__container__list">
                                         <li class="content__container__list__item">Andrew Castelluccio</li>
-                                        <li class="content__container__list__item">a developer</li>
-                                        <li class="content__container__list__item">a gamer</li>
-                                        <li class="content__container__list__item">a student</li>
+                                        <li class="content__container__list__item">a software engineer</li>
+                                        <li class="content__container__list__item">a competitive gamer</li>
+                                        <li class="content__container__list__item">a Drew University student</li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
+                        
+                        <button class="button button1">Learn More</button>
+
                     </div>
                 </header>
             </div>
