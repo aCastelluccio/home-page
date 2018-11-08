@@ -1,14 +1,14 @@
 {
-  "main.css": "/home-page/static/css/main.5f520422.chunk.css",
-  "main.js": "/home-page/static/js/main.61e8d831.chunk.js",
-  "main.js.map": "/home-page/static/js/main.61e8d831.chunk.js.map",
-  "static/js/1.37f90d57.chunk.js": "/home-page/static/js/1.37f90d57.chunk.js",
-  "static/js/1.37f90d57.chunk.js.map": "/home-page/static/js/1.37f90d57.chunk.js.map",
+  "main.css": "/home-page/static/css/main.ca9ed474.chunk.css",
+  "main.js": "/home-page/static/js/main.a4bb2f78.chunk.js",
+  "main.js.map": "/home-page/static/js/main.a4bb2f78.chunk.js.map",
+  "static/js/1.13e1aea5.chunk.js": "/home-page/static/js/1.13e1aea5.chunk.js",
+  "static/js/1.13e1aea5.chunk.js.map": "/home-page/static/js/1.13e1aea5.chunk.js.map",
   "runtime~main.js": "/home-page/static/js/runtime~main.77de17c0.js",
   "runtime~main.js.map": "/home-page/static/js/runtime~main.77de17c0.js.map",
-  "static/media/logo.svg": "/home-page/static/media/logo.5d5d9eef.svg",
-  "static/css/main.5f520422.chunk.css.map": "/home-page/static/css/main.5f520422.chunk.css.map",
+  "static/media/Head.css": "/home-page/static/media/cobweb.8c8b39ae.jpg",
+  "static/css/main.ca9ed474.chunk.css.map": "/home-page/static/css/main.ca9ed474.chunk.css.map",
   "index.html": "/home-page/index.html",
-  "precache-manifest.bd5e342df9786789627371289165444d.js": "/home-page/precache-manifest.bd5e342df9786789627371289165444d.js",
+  "precache-manifest.2f4bba1eec391afd0caa0013c3d036d5.js": "/home-page/precache-manifest.2f4bba1eec391afd0caa0013c3d036d5.js",
   "service-worker.js": "/home-page/service-worker.js"
 }
